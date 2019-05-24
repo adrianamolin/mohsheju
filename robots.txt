@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hohtoothoh.castermao.com/sitemap.xml
